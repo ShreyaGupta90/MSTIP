@@ -1,4 +1,4 @@
-# Custom Memory Allocator (Malloc/Free)h
+# Custom Memory Allocator (Malloc/Free)
 
 ## Overview
 
