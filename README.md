@@ -1,4 +1,4 @@
-# Custom Memory Allocator (Internship at MindShift Technologies)
+# Custom Memory Allocator (Malloc/Free)
 
 ## Overview
 
