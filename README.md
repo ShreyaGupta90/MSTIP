@@ -52,3 +52,11 @@ To compile and run this project:
 2. Download or clone the repository:
    ```bash
    git clone https://github.com/your-repo/custom-memory-allocator.git
+
+## 📩 Contact & Contribution
+
+For contributions, feedback, or collaborations, feel free to reach out:  
+- **Author:** Shreya Gupta
+- **Email:** shreyagupta119809@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shreya-gupta-2a6a292ab
+
